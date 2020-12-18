@@ -1,0 +1,61 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+
+header {
+    background: #f8ecf3;
+    padding: 20px 0;
+}
+
+.tit-principal {
+    padding-left: 20px;
+    color: #25bbae;
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #e4e3e3;
+    padding: 30px;
+}
+
+.txt-centro {
+    text-align: center;
+    color: #25bbae;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: #25bbae;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFF;
+    padding: 20px;
+
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgbeneficios {
+    width: 50%;
+}
